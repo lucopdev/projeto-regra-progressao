@@ -9,6 +9,7 @@ public class App {
    * Metodo main.
    */
   public static void main(String[] args) {
-    // a
+    Avitidades atividades = new Avitidades();
+    atividades.cadastroDeAtividades();
   }
 }
