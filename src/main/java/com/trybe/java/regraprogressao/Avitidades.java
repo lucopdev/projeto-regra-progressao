@@ -1,10 +1,16 @@
 package com.trybe.java.regraprogressao;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * The type Avitidades.
+ */
 public class Avitidades {
+
+  /**
+   * Cadastro de atividades.
+   */
   public void cadastroDeAtividades() {
     Scanner scanner = new Scanner(System.in);
     ArrayList arrayPesos = new ArrayList<>();
@@ -15,7 +21,7 @@ public class Avitidades {
     int numeroAtividades = scanner.nextInt();
     scanner.nextLine();
 
-    for (int i = 0; i < numeroAtividades; i ++) {
+    for (int i = 0; i < numeroAtividades; i++) {
       System.out.print("Digite o nome da atividade " + (i + 1) + ": ");
       String atividade = scanner.nextLine();
 
@@ -50,9 +56,13 @@ public class Avitidades {
     double notaMaxObtida = (somaPesoXnotas / somaPesos);
 
     if (notaMaxObtida >= 85) {
-      System.out.println("Parabéns! Você alcançou " + notaMaxObtida + "%! E temos o prazer de informar que você obteve aprovação! ");
+      System.out.println("Parabéns! Você alcançou " + notaMaxObtida
+          + "%! E temos o prazer de informar que você obteve aprovação! ");
     } else {
-      System.out.println("Lamentamos informar que, com base na sua pontuação alcançada neste período, " + notaMaxObtida + "%, você não atingiu a pontuação mínima necessária para sua aprovação.");
+      System.out.println(
+          "Lamentamos informar que, com base na sua pontuação alcançada neste período, "
+              + notaMaxObtida
+              + "%, você não atingiu a pontuação mínima necessária para sua aprovação.");
     }
   }
 }
