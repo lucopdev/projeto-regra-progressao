@@ -1,0 +1,216 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+2023-10-24 14:05:47,329 [   3421]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme VSCode Dark Brighter - old: VSCode Dark Brighter, new VSCode Dark Brighter
+2023-10-24 14:05:47,344 [   3436]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Light - old: Light, new Light
+2023-10-24 14:05:47,390 [   3482]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme VSCode Dark Brighter - old: VSCode Dark Brighter, new VSCode Dark Brighter
+2023-10-24 14:05:47,395 [   3487]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme VSCode Light Modern - old: VSCode Light Modern, new VSCode Light Modern
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+2023-10-24 14:08:28,745 [   3437]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme VSCode Dark Brighter - old: VSCode Dark Brighter, new VSCode Dark Brighter
+2023-10-24 14:08:28,758 [   3450]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Light - old: Light, new Light
+2023-10-24 14:08:28,811 [   3503]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme VSCode Dark Brighter - old: VSCode Dark Brighter, new VSCode Dark Brighter
+2023-10-24 14:08:28,817 [   3509]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme VSCode Light Modern - old: VSCode Light Modern, new VSCode Light Modern
+
+Info  | RdCoroutineScope          | 46:DefaultDispatcher-worker-30 | RdCoroutineHost overridden 
+2023-10-24 14:08:33,486 [   8178]   WARN - #o.j.i.maven - performImport async: Linear Import is disabled
+2023-10-24 14:08:33,706 [   8398]   WARN - #o.j.i.maven - Trying to add the same listener twice
+2023-10-24 14:08:33,714 [   8406]   WARN - #o.j.i.maven - updateAllMavenProjectsSync started, edt=false
+2023-10-24 14:08:34,738 [   9430]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Class path contains multiple SLF4J bindings.
+2023-10-24 14:08:34,746 [   9438]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/home/lucopdev/IntelliJ-IC-232.10072.27/plugins/maven/lib/maven36-server.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2023-10-24 14:08:34,746 [   9438]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/home/lucopdev/IntelliJ-IC-232.10072.27/lib/util-8.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2023-10-24 14:08:34,747 [   9439]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+2023-10-24 14:08:34,747 [   9439]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Actual binding is of type [org.jetbrains.idea.maven.server.Maven3WrapperSl4LoggerFactory]
+
+(java:189492): Gtk-WARNING **: 14:08:38.465: gtk_disable_setlocale() must be called before gtk_init()
+2023-10-24 14:08:43,005 [  17697]   WARN - #o.j.i.maven - updateAllMavenProjectsSync finished, edt=false
+2023-10-24 14:08:43,061 [  17753]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-regra-progressao
+2023-10-24 14:08:45,247 [  19939]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.ide.util.TipsUsageManager$State
+2023-10-24 14:08:45,999 [  20691]   WARN - #o.j.i.maven - forceUpdateAllProjectsOrFindAllAvailablePomFiles: Linear Import is disabled
+2023-10-24 14:08:46,000 [  20692]   WARN - #o.j.i.maven - doScheduleUpdateProjects: Linear Import is disabled
+2023-10-24 14:08:46,006 [  20698]   WARN - #o.j.i.maven - updateAllMavenProjectsSync started, edt=false
+2023-10-24 14:08:46,512 [  21204]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-regra-progressao
+2023-10-24 14:08:46,630 [  21322]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-regra-progressao
+2023-10-24 14:08:46,683 [  21375]   WARN - #o.j.i.maven - updateAllMavenProjectsSync finished, edt=false
+2023-10-24 14:08:47,565 [  22257]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-regra-progressao
+2023-10-24 14:08:55,819 [  30511]   WARN - #c.i.o.m.LanguageLevelUtil - File not found: api22.txt
+2023-10-24 14:13:31,698 [ 306390] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:31,698 [ 306390] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:32,205 [ 306897] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:32,705 [ 307397] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:32,706 [ 307398] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:33,211 [ 307903] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:33,715 [ 308407] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:33,716 [ 308408] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:34,224 [ 308916] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:34,398 [ 309090] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:34,398 [ 309090] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:58,820 [ 333512] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:58,820 [ 333512] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:58,856 [ 333548] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:58,856 [ 333548] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:58,902 [ 333594] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:58,903 [ 333595] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:59,359 [ 334051] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:59,360 [ 334052] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:13:59,864 [ 334556] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:00,365 [ 335057] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:00,365 [ 335057] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:00,870 [ 335562] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:01,374 [ 336066] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:01,374 [ 336066] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:01,878 [ 336570] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:02,380 [ 337072] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:02,380 [ 337072] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:02,885 [ 337577] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:03,390 [ 338082] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:03,391 [ 338083] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:03,893 [ 338585] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:04,394 [ 339086] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:04,395 [ 339087] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:04,672 [ 339364] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:04,673 [ 339365] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:04,707 [ 339399] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:04,707 [ 339399] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:05,056 [ 339748]   WARN - #c.i.u.x.Binding - no accessors for java.time.LocalTime
+2023-10-24 14:14:07,615 [ 342307] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:07,615 [ 342307] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:07,626 [ 342318] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:07,627 [ 342319] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:07,653 [ 342345] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:07,654 [ 342346] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:07,721 [ 342413] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:07,722 [ 342414] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:08,124 [ 342816] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:08,633 [ 343325] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:08,633 [ 343325] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:08,866 [ 343558] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:08,874 [ 343566] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
+2023-10-24 14:14:08,875 [ 343567] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: -1 < 0
