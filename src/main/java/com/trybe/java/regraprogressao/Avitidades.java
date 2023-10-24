@@ -40,5 +40,19 @@ public class Avitidades {
     if (somaPesos != 100) {
       System.out.println("A soma dos pesos é diferente de 100!");
     }
+
+    int somaPesoXnotas = 0;
+    for (int i = 0; i < arrayPesoXnota.size(); i++) {
+      int pesoXnota = (int) arrayPesoXnota.get(i);
+      somaPesoXnotas += pesoXnota;
+    }
+
+    double notaMaxObtida = (somaPesoXnotas / somaPesos);
+
+    if (notaMaxObtida >= 85) {
+      System.out.println("Parabéns! Você alcançou " + notaMaxObtida + "%! E temos o prazer de informar que você obteve aprovação! ");
+    } else {
+      System.out.println("Lamentamos informar que, com base na sua pontuação alcançada neste período, " + notaMaxObtida + "%, você não atingiu a pontuação mínima necessária para sua aprovação.");
+    }
   }
 }
