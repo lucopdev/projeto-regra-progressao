@@ -371,3 +371,5 @@ java.lang.Throwable: Stub index points to a file without PSI: file = jrt:///usr/
 2023-10-24 18:16:33,077 [14887769]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
 2023-10-24 18:17:46,741 [14961433]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
 2023-10-24 18:18:09,086 [14983778]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-10-24 18:18:30,136 [15004828]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-10-24 18:18:56,993 [15031685]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found

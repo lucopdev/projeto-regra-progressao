@@ -32,5 +32,13 @@ public class Avitidades {
     }
     scanner.close();
 
+    int somaPesos = 0;
+    for (int i = 0; i < arrayPesos.size(); i++) {
+      int peso = (int) arrayPesos.get(i);
+      somaPesos += peso;
+    }
+    if (somaPesos != 100) {
+      System.out.println("A soma dos pesos é diferente de 100!");
+    }
   }
 }
