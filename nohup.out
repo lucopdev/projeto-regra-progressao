@@ -376,3 +376,4 @@ java.lang.Throwable: Stub index points to a file without PSI: file = jrt:///usr/
 2023-10-24 18:19:20,191 [15054883]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
 2023-10-24 18:20:20,316 [15115008]   WARN - #c.i.o.o.e.ConfigurableExtensionPointUtil - ignore configurable with duplicated id: device.file.explorer
 2023-10-24 18:20:20,400 [15115092]   WARN - #c.i.o.o.e.ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
